@@ -1,0 +1,16 @@
+.jumbotron {
+  display: flex;
+ align-items: center;
+  background-image: url('http://wdy.h-cdn.co/assets/16/01/980x653/gallery-1451923979-healthy-food.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 800px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+.bg-gray{
+	background-color: gray;
+}
+.footer{
+	color: #ffffff;
+
+}
